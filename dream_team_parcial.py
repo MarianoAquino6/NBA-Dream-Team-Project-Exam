@@ -3,7 +3,7 @@ import json
 import os
 import time
 
-json_path = r"C:\Users\x\Documents\Programming\Programacion y Laboratorio 1\Ejercicios\PRACTICOS\Parcial\pp_lab1_aquino_mariano_nicolas\dream_team.json"
+json_path = "dream_team.json"
 
 def imprimir_menu():
     """
